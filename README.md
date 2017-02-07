@@ -2,4 +2,4 @@
 
 Algoritmo de cifrado Vernam 
 
-Ejecución ```she python vernam.py```
+Ejecución ```python vernam.py```
